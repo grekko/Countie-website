@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 
-
 gem "github-pages", group: :jekyll_plugins
 gem "minima", "~> 2.5" # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
@@ -21,3 +20,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+gem "webrick", "~> 1.8"
