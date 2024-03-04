@@ -2,8 +2,8 @@ title: Countie
 email: countie.ios@grekko.de
 description: >- # this means to ignore newlines until "baseurl:"
   iOS Countdown timer with widget support.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://grekko.github.io/Countie-website/
+baseurl: "/Countie-website" # the subpath of your site, e.g. /blog
+url: https://grekko.github.io
 
 # Build settings
 theme: minima
